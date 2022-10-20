@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yySwh6MwW1PmdnNHRsQnWXUJd/hX9p+xx8T2ovj+kg8F/Rc1kc79Su4wPkNYtYVFU+BKW0Fp6OkitSyKeZdwVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Documents\\שושי\\TEST\\AWSLambdaTest\\AWSLambdaTest\\AWSLambdaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.10\\microsoft.netcore.app.crossgen2.win-x64.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
